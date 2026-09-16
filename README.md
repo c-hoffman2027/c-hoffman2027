@@ -2,7 +2,7 @@
 
 Senior Accounting Major at Baldwin Wallace University
 
----
+* For Resume, Click [here](https://rawcdn.githack.com/c-hoffman2027/c-hoffman2027/075dc6017b8fe4a58d798a75f4598d6835279d6c/Resume%20.pdf)
 
 ### 🎓 About Me
 
