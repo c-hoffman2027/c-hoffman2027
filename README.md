@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Caleb 👋
 
-<!--
-**c-hoffman2027/c-hoffman2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Accounting Major at Baldwin Wallace University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachlor's Degree in Accounting at Baldwin Wallace University Expected Graduation: May 2027
+* 🔭 **Current Focus:** Learning tax processes 
+* 🌱 **Currently Building:** A grade average calculator 
+* 💡 **Interests:** Accounting, tax, music, worship 
+* ⚡ **Fun Fact:** I am a worship leader at my church, I sing/ play guiatr 
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Open AI
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/caleb-hoffman-7034912a1
+* **Email:** c.hoffman2027@gmail.com
